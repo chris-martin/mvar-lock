@@ -23,7 +23,7 @@ library:
     - Control.Concurrent.MVarLock
 
 dependencies:
-  - base >= 4.9 && < 4.11
+  - base >= 4.9 && < 4.12
   - safe-exceptions
 
 ghc-options:
