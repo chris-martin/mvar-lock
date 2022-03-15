@@ -1,7 +1,7 @@
 cabal-version: 3.0
 
 name:     mvar-lock
-version:  0.1.0.2
+version:  0.1.0.3
 category: Concurrency
 synopsis: A trivial lock based on MVar.
 
