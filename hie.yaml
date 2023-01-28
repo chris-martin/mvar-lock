@@ -1,4 +1,0 @@
-cradle:
-  cabal:
-    - path: "./mvar-lock/src"
-      component: "lib:mvar-lock"

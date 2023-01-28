@@ -1,0 +1,6 @@
+dist
+dist-*
+*.yml
+*.yaml
+result
+result-*
